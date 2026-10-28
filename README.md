@@ -9,7 +9,7 @@
 A fun and fast framework powered by Bun and TypeScript, bringing simplicity and a fresh perspective to backend development.
 Stay in the Sponge Zone!
 
-[Documentation](https://riserbob.vercel.app/docs/license) · [MIT License](LICENSE)
+[Documentation](https://riserbob.vercel.app/docs) · [MIT License](https://riserbob.vercel.app/docs/license)
 
 </div>
 
