@@ -6,7 +6,6 @@
 
 **Build APIs. Stay in the Sponge Zone.**
 
-
 A fun and fast framework powered by Bun and TypeScript, bringing simplicity and a fresh perspective to backend development.
 Stay in the Sponge Zone!
 
